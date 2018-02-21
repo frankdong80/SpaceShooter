@@ -1,0 +1,13 @@
+{
+"companyName": "dongstech",
+"productName": "Sapce Shooter",
+"dataUrl": "dda9c65fd29d1c61d115c877076d0245.unityweb",
+"asmCodeUrl": "f14139988f0fa4aabf5ff5f8ced79e52.unityweb",
+"asmMemoryUrl": "4f3a2c17bdef84112c7439b55636c29a.unityweb",
+"asmFrameworkUrl": "133914673e5e29c1ca3548e789d6097b.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
